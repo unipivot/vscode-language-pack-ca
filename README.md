@@ -14,13 +14,13 @@ Per a més informació, consulteu la [documentació](https://go.microsoft.com/fw
 
 ## Contribucions
 
-Per fer comentaris o proposar millores de la traducció, creeu una incidència al repositori [vscode-loc](https://github.com/unipivot/vscode-loc).
+Per fer comentaris o proposar millores de la traducció, creeu una incidència al repositori [vscode-language-pack-ca](https://github.com/unipivot/vscode-language-pack-ca).
 
-Les cadenes de traducció les manté [Unipivot](https://unipivot.com), la plataforma de localització agèntica. Al repositori vscode-loc no s'acceptaran pull requests amb canvis de traducció.
+Les cadenes de traducció les manté [Unipivot](https://unipivot.com), la plataforma de localització agèntica. Al repositori vscode-language-pack-ca no s'acceptaran pull requests amb canvis de traducció.
 
 ## Llicència
 
-El codi font i les cadenes estan subjectes a la llicència [MIT](https://github.com/unipivot/vscode-loc/blob/master/LICENSE.md).
+El codi font i les cadenes estan subjectes a la llicència [MIT](https://github.com/unipivot/vscode-language-pack-ca/blob/main/LICENSE.md).
 
 **Gaudiu-ne!**
 
@@ -40,12 +40,12 @@ See [Docs](https://go.microsoft.com/fwlink/?LinkId=761051) for more information.
 
 ## Contributing
 
-For feedback of translation improvement, please create an issue in the [vscode-loc](https://github.com/unipivot/vscode-loc) repo.
+For feedback of translation improvement, please create an issue in the [vscode-language-pack-ca](https://github.com/unipivot/vscode-language-pack-ca) repo.
 
-The translation strings are maintained by [Unipivot](https://unipivot.com), the agentic localization platform. Pull requests with translation changes will not be accepted in the vscode-loc repo.
+The translation strings are maintained by [Unipivot](https://unipivot.com), the agentic localization platform. Pull requests with translation changes will not be accepted in the vscode-language-pack-ca repo.
 
 ## License
 
-The source code and strings are licensed under the [MIT](https://github.com/unipivot/vscode-loc/blob/master/LICENSE.md) license.
+The source code and strings are licensed under the [MIT](https://github.com/unipivot/vscode-language-pack-ca/blob/main/LICENSE.md) license.
 
 **Enjoy!**
