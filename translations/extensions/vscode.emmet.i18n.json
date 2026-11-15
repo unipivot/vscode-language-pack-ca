@@ -9,11 +9,7 @@
 	"version": "1.0.0",
 	"contents": {
 		"bundle": {
-			"Emmet Abbreviation": "Abreviatura de l'Emmet",
-			"Enter Abbreviation": "Introduïu una abreviatura",
-			"Invalid emmet.variables field. See https://code.visualstudio.com/docs/editor/emmet#_emmet-configuration for a valid example.": "El camp emmet.variables no és vàlid. Consulteu https://code.visualstudio.com/docs/editor/emmet#_emmet-configuration per veure'n un exemple vàlid.",
-			"Invalid snippets file. See https://code.visualstudio.com/docs/editor/emmet#_using-custom-emmet-snippets for a valid example.": "El fitxer de fragments de codi no és vàlid. Consulteu https://code.visualstudio.com/docs/editor/emmet#_using-custom-emmet-snippets per veure'n un exemple vàlid.",
-			"Invalid syntax profile. See https://code.visualstudio.com/docs/editor/emmet#_emmet-configuration for a valid example.": "El perfil de sintaxi no és vàlid. Consulteu https://code.visualstudio.com/docs/editor/emmet#_emmet-configuration per veure'n un exemple vàlid."
+			"Enter Abbreviation": "Introduïu una abreviatura"
 		},
 		"package": {
 			"command.balanceIn": "Equilibra (cap endins)",

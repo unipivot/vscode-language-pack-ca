@@ -705,7 +705,7 @@
 			"config.countBadge.tracked": "Compta només els canvis amb seguiment.",
 			"config.decorations.enabled": "Controla si el Git aporta colors i insígnies a l'explorador i a la visualització «Editors oberts».",
 			"config.defaultBranchName": "El nom de la branca per defecte (per exemple: main, trunk, development) en inicialitzar un repositori del Git nou. Si és buit, s'utilitzarà el nom de branca per defecte configurat al Git. **Nota:** Requereix la versió `2.28.0` o posterior del Git.",
-			"config.defaultCloneDirectory": "La ubicació per defecte on clonar un repositori del Git.",
+			"config.defaultCloneDirectory": "La ubicació per defecte on clonar un repositori del Git. També s'utilitza com a carpeta arrel dels repositoris clonats per clients remots quan aquesta màquina es comparteix com a entorn del GitHub, tret que s'hagi definit chat.agentHost.defaultCloneDirectory. Els clons remots es col·loquen a <root>/<owner>/<repository>.",
 			"config.detectSubmodules": "Controla si s'han de detectar automàticament els submòduls del Git.",
 			"config.detectSubmodulesLimit": "Controla el límit de submòduls del Git detectats.",
 			"config.detectWorktrees": "Controla si s'han de detectar automàticament els arbres de treball del Git.",

@@ -9,7 +9,7 @@
 	"version": "1.0.0",
 	"contents": {
 		"bundle": {
-			"Auto detecting gulp for folder {0} failed with error: {1}', this.workspaceFolder.name, err.error ? err.error.toString() : 'unknown": "La detecció automàtica del gulp per a la carpeta {0} ha fallat amb l'error: {1}', this.workspaceFolder.name, err.error ? err.error.toString() : 'unknown",
+			"Auto detecting gulp for folder {0} failed with error: {1}": "La detecció automàtica del gulp per a la carpeta {0} ha fallat amb l'error: {1}",
 			"Go to output": "Ves a la sortida",
 			"Problem finding gulp tasks. See the output for more information.": "S'ha produït un problema en cercar les tasques del gulp. Consulteu la sortida per a més informació."
 		},
